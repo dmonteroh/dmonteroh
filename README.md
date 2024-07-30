@@ -10,8 +10,7 @@ I don't play favourite with languages or frameworks, but I'm usually thinking ab
 
 - 🔭 I’m currently working on a PhD related to robot autonomy 
 - 🌱 I’m currently learning ROS, Hyperledger Fabric, Apache Pulsar & absolutely everything that seems interesting
-- 📫 How to reach me: dmonteroh.fi@gmail.com
-- ⚡ Fun fact: I like photography, regardless of how bad I may be at it
+- 📫 How to reach me: dmonteroh.fi(at)gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dmonteroh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmonteroh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dankmh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dmonteroh)  
